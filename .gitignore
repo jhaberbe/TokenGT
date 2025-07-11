@@ -11,3 +11,8 @@ wheels/
 
 # Project-specific files
 data/
+
+# Training output
+notebook/wandb/
+notebook/embeddings/
+notebook/checkpoints/
