@@ -17,6 +17,7 @@ dependencies = [
     "scipy>=1.15.3",
     "scvi-tools>=1.3.2",
     "statsmodels>=0.14.5",
+    "tensorboard>=2.19.0",
     "torch>=2.7.1",
     "torch-geometric>=2.6.1",
     "tqdm>=4.67.1",
